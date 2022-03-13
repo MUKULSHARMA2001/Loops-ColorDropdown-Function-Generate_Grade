@@ -1,0 +1,14 @@
+/* font size of grade text */
+.gradeText{
+font-size: 18px;
+}
+/* set margin top of button */
+#btn{
+    margin-top: 20px;
+}
+/* css for text box of marks */
+#numericGrade{
+    width: 18%;
+    border: 1px solid black;
+    height: 20px;
+}

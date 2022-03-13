@@ -1,0 +1,12 @@
+/* set margin on top of lastname */
+.second{
+    margin-top: 15px;
+}
+/* set margin on top of button */
+#btn{
+    margin-top: 15px;  
+}
+/* input field in bold */
+input{
+    font-weight: bold;
+}
